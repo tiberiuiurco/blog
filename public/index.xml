@@ -14,7 +14,7 @@
       
       <guid>//localhost:1313/posts/first-post-file-title/</guid>
       <description>&lt;h1 id=&#34;this-is-some-test-content&#34;&gt;This is some test content&lt;/h1&gt;
-&lt;p&gt;![[Pasted image 20241210203252.png]]&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Pasted%20image%2020241210203252.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Some &lt;strong&gt;C code&lt;/strong&gt;:&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -25,7 +25,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
       <content>&lt;h1 id=&#34;this-is-some-test-content&#34;&gt;This is some test content&lt;/h1&gt;
-&lt;p&gt;![[Pasted image 20241210203252.png]]&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Pasted%20image%2020241210203252.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Some &lt;strong&gt;C code&lt;/strong&gt;:&lt;/p&gt;
 &lt;/blockquote&gt;

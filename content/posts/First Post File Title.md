@@ -8,7 +8,7 @@ tags:
 ---
 # This is some test content
 
-![[Pasted image 20241210203252.png]]
+!![Image Description](/images/Pasted%20image%2020241210203252.png)
 
 >Some **C code**:
 
